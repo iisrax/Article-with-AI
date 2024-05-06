@@ -7,7 +7,7 @@
 
 Projeto realizado durante o **Bootcamp Santander 2024 - Fundamentos de IA para Devs**.
 
-> Se você, caro dev estiver interessado no assunto por favor, [clique aqui]() e boa leitura. 📖
+> Se você, caro dev estiver interessado no assunto por favor, [clique aqui](https://web.dio.me/articles/otimize-seu-repositorio-git-com-git-lfs-para-arquivos-grandes?back=%2Farticles&page=1&order=oldest) e boa leitura. 📖
 
 ----------------
 
@@ -34,8 +34,9 @@ Projeto realizado durante o **Bootcamp Santander 2024 - Fundamentos de IA para D
 ------------------
 
 ### Considerações Finais
-Definitivamente um desafio a ser realizado com cautela... Como estou ainda me familiarizando com o mundo do desenvolvimento, confiei principalmente na documentação oficial e apesar de ter contado com a ajuda da IA na geração do conteúdo, fiz questão de revisar todo conteúdo. Se identificar qualquer erro ou falha em minhas explicações, por favor, abra uma issue e estarei pronto para corrigi-la. Agradeço sinceramente por ter dedicado seu tempo até aqui! 😁✌🏽
+> Definitivamente um desafio a ser realizado com cautela... Como estou ainda me familiarizando com o mundo do desenvolvimento, confiei principalmente na documentação oficial e apesar de ter contado com a ajuda da IA na geração do conteúdo, fiz questão de revisar todo conteúdo. Se identificar qualquer erro ou falha em minhas explicações, por favor, abra uma issue e estarei pronto para corrigi-la. Agradeço sinceramente por ter dedicado seu tempo até aqui! 😁✌🏽
+
 
 <p align="center">
-    <img width="400" src="assets\digital art of a little cat.jpg">
+    <img width="600" src="assets\digital art of a little cat.jpg">
 </p>
